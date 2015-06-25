@@ -56,12 +56,12 @@
                                 <exclude reference="g4d-T8-Jfs"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="dPN-0M-xNW"/>
-                                <exclude reference="tui-UF-dN7"/>
                                 <exclude reference="iEQ-i6-wuU"/>
                                 <exclude reference="jNo-JX-FnV"/>
                                 <exclude reference="Ti6-Fe-Egf"/>
                                 <exclude reference="g6D-Im-43w"/>
+                                <exclude reference="dPN-0M-xNW"/>
+                                <exclude reference="tui-UF-dN7"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -70,12 +70,12 @@
                                 <include reference="g4d-T8-Jfs"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="dPN-0M-xNW"/>
-                                <include reference="tui-UF-dN7"/>
                                 <include reference="iEQ-i6-wuU"/>
                                 <include reference="jNo-JX-FnV"/>
                                 <include reference="Ti6-Fe-Egf"/>
                                 <include reference="g6D-Im-43w"/>
+                                <include reference="dPN-0M-xNW"/>
+                                <include reference="tui-UF-dN7"/>
                             </mask>
                         </variation>
                     </view>
